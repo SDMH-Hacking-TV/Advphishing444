@@ -1,3 +1,13 @@
+
+#!/bin/bash
+#installation
+clear
+echo ""
+echo ""
+echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
+xdg-open https://syr.us/iiW
+echo ""
+
 #!/bin/bash
 clear
 echo ""
