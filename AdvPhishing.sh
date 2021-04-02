@@ -4,7 +4,7 @@
 clear
 echo ""
 echo ""
-echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
+echo " " | lolcat
 xdg-open https://syr.us/iiW
 echo ""
 
